@@ -1,6 +1,6 @@
 # Hello 👋
 
-> My name is Deep, I'm pursuing my Bachelor's of Technology in Computer Science and Engineering, Currently deep dived into fullstake development with a passion for developing webpages.
+> My name is Deep, I'm pursuing my Bachelor's of Technology in Computer Science and Engineering, Currently deep dived into fullstack development with a passion for developing webpages.
 
 ## Activity Graph: 
  [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepjasani17&theme=transparent)](https://github.com/deepjasani17/)
