@@ -48,10 +48,7 @@
         <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" padding="5" alt="VS Code" /></a>
         <br>VS Code</br>
 </td>
-<td align="center" width="96" style="border:2px solid blue">
-        <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" padding="5" alt="Bootstrap"  /></a>
-        <br>Bootstrap</br>
-</td>
+
 </tr>
 <tr>
  <td align="center" width="96" style="border:2px solid blue">
@@ -83,12 +80,9 @@
         <br>Postman</br>
 </td>
 <td align="center" width="96" style="border:2px solid blue">
-        <a href="https://www.Jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="60" height="60" padding="5" alt="TypeScript" /></a>
-        <br>Jenkins</br>
+        <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" padding="5" alt="Bootstrap"  /></a>
+        <br>Bootstrap</br>
 </td>
-<td align="center" width="96" style="border:2px solid blue">
-        <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60" padding="5" alt="Redis" /></a>
-        <br>Kubernetes</br>
 </td>
 </tr>
 </table>
